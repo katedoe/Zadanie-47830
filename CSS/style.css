@@ -1,0 +1,15 @@
+.pole {
+    width: 8cm;
+    height: 16cm;
+    background-color: #808080;  
+}
+
+h1 {
+    color: white;
+}
+
+.square {
+    width: 3cm;
+    height: 3cm;
+    background-color: #fea500;
+}
