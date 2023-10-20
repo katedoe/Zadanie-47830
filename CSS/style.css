@@ -1,27 +1,19 @@
 .pole {
-    width: 8cm;
-    height: 16cm;
+    width: 320px;
+    height: 640px;
     background-color: #808080;  
 }
 header {
-    text-align: center;
+   margin-left: 30px;
 }
 
 h1 {
     color: white;
 }
 
-.kwadraty {
-    margin: 0,5. 10. 0,5. 10;
-  /*   margin-top: auto;
-    margin-right: auto;
-    margin-bottom: auto;
-    margin-left: 15; */
-}
-
 .square {
-    width: 3cm;
-    height: 3cm;
+    width: 120px;
+    height: 120px;
     background-color: #fea500;
-    margin: auto;
+    margin-left: 30px;
 }
