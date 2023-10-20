@@ -3,13 +3,25 @@
     height: 16cm;
     background-color: #808080;  
 }
+header {
+    text-align: center;
+}
 
 h1 {
     color: white;
+}
+
+.kwadraty {
+    margin: 0,5. 10. 0,5. 10;
+  /*   margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: 15; */
 }
 
 .square {
     width: 3cm;
     height: 3cm;
     background-color: #fea500;
+    margin: auto;
 }
